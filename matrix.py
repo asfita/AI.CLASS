@@ -1,3 +1,5 @@
+#Asfiat Saldarisya Nadjun_F55123072_TIC
+
 import numpy as np
 
 # Definisi matriks menggunakan numpy
